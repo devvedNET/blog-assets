@@ -1,0 +1,113 @@
+ul.post-tags {
+    list-style: none;
+    font-size: 0.5rem;
+    display: flex;
+}
+
+ul.post-tags li {
+    text-align: center;
+    /* background: rgba(238, 238, 238, 0.03); */
+    /* margin-right: 0.25rem; */
+    transform: scale(0.33);
+}
+
+.lang {
+    height: 72px;
+    width: 72px;
+    display: none;
+    margin-left: -33px;
+    background-size: contain !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+}
+
+.lang-python {
+    display: block;
+    background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/python.png?raw=true);
+}
+
+.lang-angular {
+    display: block;
+    background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/angular.png?raw=true);
+}
+
+.lang-php {
+    display: block;
+    background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/php.png?raw=true);
+}
+
+.lang-ruby {
+    display: block;
+    background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/ruby.png?raw=true);
+}
+
+.lang-wordpress {
+    display: block;
+    background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/wordpress.png?raw=true);
+}
+
+.lang-css {
+    display: block;
+    background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/css.png?raw=true);
+}
+
+.lang-docker {
+    display: block;
+    background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/docker.png?raw=true);
+}
+
+.lang-html {
+    display: block;
+    background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/html.png?raw=true);
+}
+
+.lang-typescript {
+    display: block;
+    background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/typescript.png?raw=true);
+}
+
+.lang-vue {
+    display: block;
+    background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/vue.png?raw=true);
+}
+
+.lang-javascript {
+    display: block;
+    background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/javascript.png?raw=true);
+}
+
+.lang-react {
+    display: block;
+    background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/react.png?raw=true);
+}
+
+.lang-redux {
+    display: block;
+    background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/redux.png?raw=true);
+}
+
+.lang-rxjs {
+    display: block;
+    background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/rxjs.png?raw=true);
+}
+
+.lang-node {
+    display: block;
+    background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/node.png?raw=true);
+}
+
+.lang-computer-science {
+    display: block;
+    background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/computer-science.png?raw=true);
+}
+
+.lang-algorithm {
+display: block;
+background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/algorithm.png?raw=true);
+}
+
+
+.lang-java {
+display: block;
+background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/java.png?raw=true);
+}
