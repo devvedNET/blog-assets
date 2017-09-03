@@ -111,3 +111,8 @@ background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang
 display: block;
 background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/java.png?raw=true);
 }
+
+.lang-electron {
+display: block;
+background: url(https://github.com/devvedNET/blog-assets/blob/master/images/lang/icons/electron.png?raw=true);
+}
